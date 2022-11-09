@@ -44,8 +44,8 @@ author:
   name:                Caitlin Sauza
   email:               csauza@gmail.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
-  github:                csauza
+  twitter:             caitlin_sauza
+  github:              csauza
 
 # Add links to the sidebar.
 menu:
@@ -362,7 +362,7 @@ plugins:
 social:
 #   name:                <firstname> <lastname>
     links:
-#     - https://twitter.com/<username>
+      - https://twitter.com/caitlin_sauza
       - https://github.com/csauza
 
 
