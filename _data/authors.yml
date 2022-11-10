@@ -19,7 +19,7 @@ author1:
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://via.placeholder.com/128x128
-      2x:            /assets/img/me.jpg
+      2x:            /assets/img/me.jpeg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
