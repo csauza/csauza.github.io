@@ -15,7 +15,7 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/me.jpg
+    path:            https://media-exp1.licdn.com/dms/image/D5603AQFbyIxl8_d2Wg/profile-displayphoto-shrink_800_800/0/1665096366566?e=1673481600&v=beta&t=hHxv6PvZebfJNwRi0voGaQ58XA2dnxqGM91gmhcVGgw
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://via.placeholder.com/128x128
