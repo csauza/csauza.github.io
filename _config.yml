@@ -1,8 +1,6 @@
 # Config
 # ========================================================================================
 
-# Uncomment and set the URL of your site (with protocol, e.g. `https://`)
-# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 url:                   https://csauza.github.io
 
 # Uncomment and set the "base URL" of your site.
@@ -25,13 +23,13 @@ title:                 Caitlin Sauza
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Caitlin Sauza is a Cyber Security Professional, she utilises her diverse technology and human driven solutions background to inform her work.
+  Caitlin Sauza is a cyber security professional in the Defence industry space, utilising her diverse technology and human driven solutions background to inform her work.
 
 # A shorter description for the sidebar.
 tagline:               Cyber Security Consultant
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [cybersecurity, careeradvice]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
