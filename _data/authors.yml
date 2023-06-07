@@ -8,10 +8,23 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Caitlin Sauza is a Cyber Security Professional, working in the Defence industry space,
-    she utilises her diverse technology and human driven solutions background to inform her work.
+    Caitlin Sauza is a cyber security professional in the Defence industry space, utilising her diverse technology and human driven solutions background to inform her work. She graduated from Deakin University with a Bachelor of Cyber Security with Distinction, and was recognised as a standout woman in security with a diverse background and skillset, when she was chosen as one of three Deakin students in the year 2018, to receive a Westpac Young Technologists Scholarship.
     
-    Open `_data/authors.yml` to edit this text.
+    Caitlin's internship with Deloitte in their Cyber Risk Advisory team solidified her motivation to pursue cyber security as a career. She also held the positions of Female Ambassador and eventually President of the Deakin Information Security Club (DISC), as well as volunteering her time on the Australian Women in Security Network (AWSN) Cadets Committee.
+    
+    Caitlin was also selected to take part in the Tangible Uplift Program 2022, sponsored by ISACA and AISA, which provided training and assistance to 50 women across Australia, with passing the CISM written exam, and increasing their cyber security skills, uplifting their credibility index and marketability, and assisting with job-readiness. She has passed her CISM exam as of May 2023.
+    
+    In her role with Bluerydge, Caitlin is spearheading both the Defence Industry Security Program (DISP), and Security Awareness Training capabilities. She's a proud member of several organisations, including: AISA, ISACA, (ISC)², AWSN, Tangible Uplift Program 2022, MHFA AUS, and AUSTSWIM.
+    
+    Award Nominations:
+    ► Australian Women in Security Awards
+      ▹ 2019 Best Volunteer/Not for Profit (Nominee),
+      ▹ 2022 Best Security Student (Nominee), and
+      ▹ 2023 The One to Watch in Protective Security (Nominee).
+    ► Australian Cyber Security Awards
+      ▹ 2023 Cyber Security Rising Star (Finalist).
+    
+    Caitlin values the Mentor/Mentee relationship and giving back to her community, and continues to work as a Swim Teacher while growing in her Cyber Security career.
 
   # This photo will be used in the about section
   picture:
