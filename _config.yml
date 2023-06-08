@@ -43,8 +43,8 @@ author:
   name:                Caitlin Sauza
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  twitter:             caitlin_sauza
-  github:              csauza
+  linkedin:            csauza
+  #github:              csauza
 
 # Add links to the sidebar.
 menu:
