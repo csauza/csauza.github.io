@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Content II
+title: Resources
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
+  A page listing resources for those interested in a career in cyber security.
 image: /assets/img/blog/example-content-ii.jpg
 sitemap: false
 ---
